@@ -1,8 +1,7 @@
-# Lucky Number
+0000jvcvhgdfhggjhgfddhhjhhjgfddvhgfdddfgh
 
 Public lottery algorithm for activity.
-
-### Usage
+#btc
 
 Example:
 
