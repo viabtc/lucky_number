@@ -7,5 +7,5 @@ Public lottery algorithm for activity.
 Example:
 
 ```bash
-python3 lucky_number.py "0000000000000000000b99fea8fac0fac12f045a95a07736f639a51dd70c47ff" 1000 10000 10
+python3 lucky_number.py "3f9f65f0194886383be730a16330d39761d48e8db384861d276fef2af27746f5" 8644512
 ```
